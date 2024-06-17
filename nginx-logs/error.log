@@ -1,0 +1,102 @@
+2024/06/17 04:04:07 [notice] 1#1: using the "epoll" event method
+2024/06/17 04:04:07 [notice] 1#1: nginx/1.27.0
+2024/06/17 04:04:07 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/06/17 04:04:07 [notice] 1#1: OS: Linux 6.6.16-linuxkit
+2024/06/17 04:04:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/06/17 04:04:07 [notice] 1#1: start worker processes
+2024/06/17 04:04:07 [notice] 1#1: start worker process 29
+2024/06/17 04:04:07 [notice] 1#1: start worker process 30
+2024/06/17 04:04:07 [notice] 1#1: start worker process 31
+2024/06/17 04:04:07 [notice] 1#1: start worker process 32
+2024/06/17 04:04:07 [notice] 1#1: start worker process 33
+2024/06/17 04:04:07 [notice] 1#1: start worker process 34
+2024/06/17 04:04:07 [notice] 1#1: start worker process 35
+2024/06/17 04:04:07 [notice] 1#1: start worker process 36
+2024/06/17 04:04:07 [notice] 1#1: start worker process 37
+2024/06/17 04:04:07 [notice] 1#1: start worker process 38
+2024/06/17 04:09:15 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/06/17 04:09:15 [notice] 30#30: gracefully shutting down
+2024/06/17 04:09:15 [notice] 29#29: gracefully shutting down
+2024/06/17 04:09:15 [notice] 32#32: gracefully shutting down
+2024/06/17 04:09:15 [notice] 36#36: gracefully shutting down
+2024/06/17 04:09:15 [notice] 34#34: gracefully shutting down
+2024/06/17 04:09:15 [notice] 37#37: gracefully shutting down
+2024/06/17 04:09:15 [notice] 35#35: gracefully shutting down
+2024/06/17 04:09:15 [notice] 35#35: exiting
+2024/06/17 04:09:15 [notice] 33#33: gracefully shutting down
+2024/06/17 04:09:15 [notice] 30#30: exiting
+2024/06/17 04:09:15 [notice] 30#30: exit
+2024/06/17 04:09:15 [notice] 38#38: gracefully shutting down
+2024/06/17 04:09:15 [notice] 31#31: gracefully shutting down
+2024/06/17 04:09:15 [notice] 31#31: exiting
+2024/06/17 04:09:15 [notice] 32#32: exiting
+2024/06/17 04:09:15 [notice] 29#29: exiting
+2024/06/17 04:09:15 [notice] 34#34: exiting
+2024/06/17 04:09:15 [notice] 34#34: exit
+2024/06/17 04:09:15 [notice] 36#36: exiting
+2024/06/17 04:09:15 [notice] 37#37: exiting
+2024/06/17 04:09:15 [notice] 35#35: exit
+2024/06/17 04:09:15 [notice] 33#33: exiting
+2024/06/17 04:09:15 [notice] 38#38: exiting
+2024/06/17 04:09:15 [notice] 38#38: exit
+2024/06/17 04:09:15 [notice] 31#31: exit
+2024/06/17 04:09:15 [notice] 32#32: exit
+2024/06/17 04:09:15 [notice] 29#29: exit
+2024/06/17 04:09:15 [notice] 36#36: exit
+2024/06/17 04:09:15 [notice] 37#37: exit
+2024/06/17 04:09:15 [notice] 33#33: exit
+2024/06/17 04:09:15 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/06/17 04:09:15 [notice] 1#1: worker process 30 exited with code 0
+2024/06/17 04:09:15 [notice] 1#1: signal 29 (SIGIO) received
+2024/06/17 04:09:15 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/06/17 04:09:15 [notice] 1#1: worker process 31 exited with code 0
+2024/06/17 04:09:15 [notice] 1#1: signal 29 (SIGIO) received
+2024/06/17 04:09:15 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2024/06/17 04:09:15 [notice] 1#1: worker process 34 exited with code 0
+2024/06/17 04:09:15 [notice] 1#1: signal 29 (SIGIO) received
+2024/06/17 04:09:15 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/06/17 04:09:15 [notice] 1#1: worker process 35 exited with code 0
+2024/06/17 04:09:15 [notice] 1#1: signal 29 (SIGIO) received
+2024/06/17 04:09:15 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/06/17 04:09:15 [notice] 1#1: worker process 29 exited with code 0
+2024/06/17 04:09:15 [notice] 1#1: signal 29 (SIGIO) received
+2024/06/17 04:09:15 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2024/06/17 04:09:15 [notice] 1#1: worker process 38 exited with code 0
+2024/06/17 04:09:15 [notice] 1#1: signal 29 (SIGIO) received
+2024/06/17 04:09:15 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2024/06/17 04:09:15 [notice] 1#1: worker process 32 exited with code 0
+2024/06/17 04:09:15 [notice] 1#1: signal 29 (SIGIO) received
+2024/06/17 04:09:15 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/06/17 04:09:15 [notice] 1#1: worker process 36 exited with code 0
+2024/06/17 04:09:15 [notice] 1#1: signal 29 (SIGIO) received
+2024/06/17 04:09:15 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2024/06/17 04:09:15 [notice] 1#1: worker process 33 exited with code 0
+2024/06/17 04:09:15 [notice] 1#1: worker process 37 exited with code 0
+2024/06/17 04:09:15 [notice] 1#1: exit
+2024/06/17 04:17:31 [notice] 1#1: using the "epoll" event method
+2024/06/17 04:17:31 [notice] 1#1: nginx/1.27.0
+2024/06/17 04:17:31 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/06/17 04:17:31 [notice] 1#1: OS: Linux 6.6.16-linuxkit
+2024/06/17 04:17:31 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/06/17 04:17:31 [notice] 1#1: start worker processes
+2024/06/17 04:17:31 [notice] 1#1: start worker process 29
+2024/06/17 04:17:31 [notice] 1#1: start worker process 30
+2024/06/17 04:17:31 [notice] 1#1: start worker process 31
+2024/06/17 04:17:31 [notice] 1#1: start worker process 32
+2024/06/17 04:17:31 [notice] 1#1: start worker process 33
+2024/06/17 04:17:31 [notice] 1#1: start worker process 34
+2024/06/17 04:17:31 [notice] 1#1: start worker process 35
+2024/06/17 04:17:31 [notice] 1#1: start worker process 36
+2024/06/17 04:17:31 [notice] 1#1: start worker process 37
+2024/06/17 04:17:31 [notice] 1#1: start worker process 38
+2024/06/17 04:19:19 [error] 31#31: *3 open() "/usr/share/nginx/html/metrics" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /metrics HTTP/1.1", host: "localhost:8082"
+2024/06/17 04:19:27 [error] 32#32: *4 open() "/usr/share/nginx/html/healthz" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /healthz HTTP/1.1", host: "localhost:8082"
+2024/06/17 12:48:58 [error] 36#36: *8 open() "/usr/share/nginx/html/metrics" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /metrics HTTP/1.1", host: "localhost:8082"
+2024/06/17 12:54:03 [error] 35#35: *9 open() "/usr/share/nginx/html/metrics" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /metrics HTTP/1.1", host: "localhost:8082"
+2024/06/17 12:57:19 [error] 38#38: *10 open() "/usr/share/nginx/html/metrics" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /metrics HTTP/1.1", host: "localhost:8082"
+2024/06/17 13:11:44 [error] 29#29: *12 open() "/usr/share/nginx/html/metrics" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /metrics HTTP/1.1", host: "localhost:8082"
+2024/06/17 13:24:23 [error] 29#29: *16 open() "/usr/share/nginx/html/metrics" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /metrics HTTP/1.1", host: "localhost:8082"
+2024/06/17 13:24:27 [error] 29#29: *17 open() "/usr/share/nginx/html/metrics" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /metrics HTTP/1.1", host: "localhost:8082"
+2024/06/17 13:24:31 [error] 29#29: *18 open() "/usr/share/nginx/html/hello" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /hello HTTP/1.1", host: "localhost:8082"
+2024/06/17 16:19:35 [error] 29#29: *20 open() "/usr/share/nginx/html/metrics" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /metrics HTTP/1.1", host: "localhost:8082"
+2024/06/17 16:19:46 [error] 29#29: *21 open() "/usr/share/nginx/html/hit" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /hit HTTP/1.1", host: "localhost:8082"
