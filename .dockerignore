@@ -1,0 +1,7 @@
+node_modules
+nginx_logs/
+kafka-connect/
+kafka-connect-plugins/
+etc/
+docs/
+
